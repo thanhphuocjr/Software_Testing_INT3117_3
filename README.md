@@ -23,9 +23,7 @@ Mục tiêu của project là áp dụng các kỹ thuật kiểm thử trong qu
 ```bash
 mvn compile
 
-### 2. Chạy test
 mvn test
-
 
 **Yêu cầu hệ thống**
 Java 8 hoặc cao hơn
