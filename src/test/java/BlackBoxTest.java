@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class CompensationTest {
+public class BlackBoxTest {
     @Test
     void rule1() {
         assertEquals(-1, Compensation.calculateBonus(-10, -10));
