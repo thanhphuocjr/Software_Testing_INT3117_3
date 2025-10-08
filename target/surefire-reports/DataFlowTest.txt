@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: ControlFlowTest
+Test set: DataFlowTest
 -------------------------------------------------------------------------------
-Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.022 s - in ControlFlowTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.679 s - in DataFlowTest
